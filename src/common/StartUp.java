@@ -32,7 +32,7 @@ public class StartUp {
         myMap.put("Journey", movie4);
 
         Movie m = (Movie) myMap.get("MidNight in Paris");
-        System.out.println("Retrieving movie with director: :MidNight in Paris " + movie1);
+        System.out.println("Retrieving movie with director: " + movie1);
         Set keys = myMap.keySet();
         for (Object key : keys) {
             Movie found = (Movie) myMap.get(key);
