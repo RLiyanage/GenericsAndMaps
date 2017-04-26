@@ -27,7 +27,7 @@ public class StartUp {
 
         Map myMap = new HashMap();
         myMap.put("MidNight in Paris", movie1);
-        myMap.put("MidNight in Paris", movie2);
+        myMap.put("Love and Death", movie2);
         myMap.put("Made in America", movie3);
         myMap.put("Journey", movie4);
 
